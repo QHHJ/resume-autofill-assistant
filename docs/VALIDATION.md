@@ -32,4 +32,10 @@
 
 未使用真实个人档案或真实 API Key，未调用付费模型，未在真实招聘网站执行提交。页面加载检查不能代替具体招聘表单的人工验收。
 
-构建仍有上游依赖和包体积等警告，不影响本次构建退出成功。GitHub 工作流已写入，但尚未上传运行；本地验证不等同于 Linux CI 验证。
+构建仍有上游依赖和包体积等警告，不影响本次构建退出成功。
+
+## GitHub 发布验证
+
+2026-10-21 已上传至公开仓库 [QHHJ/resume-autofill-assistant](https://github.com/QHHJ/resume-autofill-assistant)，默认分支为 main。
+
+首次源码提交 ae763240960b2dab32bca54f0de77e942f34dfb3 的 [Linux CI 检查](https://github.com/QHHJ/resume-autofill-assistant/actions/runs/39568030285)已通过，包含依赖安装、生产构建、lint、类型检查和单元测试。
