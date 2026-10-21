@@ -1,0 +1,53 @@
+{
+  "basic": {
+    "name": "示例用户",
+    "phone": [
+      ""
+    ],
+    "email": [
+      "applicant@example.com"
+    ],
+    "location": "示例城市",
+    "summary": "此档案仅用于演示，请替换为自己的真实信息。"
+  },
+  "education": [
+    {
+      "school": "示例大学",
+      "degree": "本科",
+      "major": "计算机科学与技术",
+      "startDate": "2020-09",
+      "endDate": "2024-06"
+    }
+  ],
+  "work": [
+    {
+      "company": "示例科技公司",
+      "title": "开发实习生",
+      "startDate": "2023-07",
+      "endDate": "2023-09",
+      "description": "参与示例项目开发。"
+    }
+  ],
+  "projects": [
+    {
+      "name": "示例项目",
+      "role": "开发",
+      "description": "用于展示项目经历的虚构内容。"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "tools": [
+      "Git"
+    ]
+  },
+  "jobPreference": {
+    "positions": [
+      "软件开发工程师"
+    ],
+    "location": "示例城市"
+  }
+}

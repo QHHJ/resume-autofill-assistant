@@ -1,0 +1,11 @@
+Resume Autofill Assistant
+
+This project contains modified source from Nanobrowser:
+https://github.com/nanobrowser/nanobrowser
+Base revision: 24a14b76e14a9c30fd84878ca7985049d1e7d064
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Local modifications add resume-specific form filling, a profile table,
+bound JSON file access, profile update handling, and related tests.
+Repository preparation adds documentation, synthetic examples and ignore rules.
+Original copyright and license notices in source files remain applicable.

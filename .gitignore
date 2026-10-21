@@ -1,0 +1,46 @@
+# Dependencies and generated output
+**/node_modules/
+**/dist/
+**/build/
+**/.turbo/
+dist-zip/
+release/
+coverage/
+**/.cache/
+*.tsbuildinfo
+*.log
+.local/
+.nanobrowser/
+playwright-report/
+test-results/
+
+# Local credentials and personal files (use examples/profile.example.json)
+.env
+.env.*
+!.env.example
+.example.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.crx
+*.zip
+private/
+local-data/
+profile.json
+profile.local.json
+personal-info*.json
+个人信息*.json
+*FormPilot导入.json
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+.cursor/
+
+# Generated extension assets
+chrome-extension/public/manifest.json
+**/tailwind-output.css
